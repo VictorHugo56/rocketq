@@ -161,6 +161,7 @@
     font-family: 'Poppins', sans-serif;
     font-size: 1.8rem;
     font-weight: 600;
+    color: var(--text-color);
 }
 
 .noquestions p:nth-child(3) {
@@ -168,4 +169,5 @@
     font-size: 1.4rem;
     margin-top: 1.3rem;
     line-height: 1.9rem;
+    color: var(--grey-dark);
 }
